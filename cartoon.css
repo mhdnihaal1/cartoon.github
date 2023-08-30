@@ -671,11 +671,9 @@ cursor:pointer;
     background-color:#F6F6F6;
 
  }
- .lit3{
-
- }
+ 
  .lit3>img{
-    padding-top: 60px;
+    padding-top: 3px;
     padding-left:60px;
     width:35px;
     cursor:pointer;
